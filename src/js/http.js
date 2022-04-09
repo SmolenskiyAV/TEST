@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 export function httpGet(url) {
   throw new Error(url);
 }

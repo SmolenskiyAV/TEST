@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import { loadUser } from '../user';
 import { httpGet } from '../http';
 

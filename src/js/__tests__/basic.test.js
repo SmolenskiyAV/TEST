@@ -1,3 +1,14 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable no-multiple-empty-lines */
+/* eslint-disable linebreak-style */
+/* eslint-disable no-tabs */
+/* eslint-disable no-trailing-spaces */
+/* eslint-disable indent */
+/* eslint-disable object-curly-spacing */
+/* eslint-disable comma-dangle */
+/* eslint-disable linebreak-style */
+/* eslint-disable prefer-const */
+/* eslint-disable quotes */
 import {Team, errorRepository} from '../basic';
 
 
@@ -29,7 +40,3 @@ test('shoud check ErrorRepository', () => {
   const result = errorRepository.translate('100');
   expect(result).toBe('попытка добавить уже внесённого персонажа!');	
   });
-  
-   
-
-

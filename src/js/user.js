@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import { httpGet } from './http';
 
 export function loadUser(id) {
